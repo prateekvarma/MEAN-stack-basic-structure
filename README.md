@@ -1,0 +1,1 @@
+# MEAN-stack-basic-structure
