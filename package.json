@@ -1,0 +1,23 @@
+{
+  "name": "plural-mean",
+  "version": "1.0.0",
+  "description": "Testing how the mean stack works",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prateek Varma",
+  "license": "ISC",
+  
+  "dependencies": {
+    "express": "^4.15.0",
+    "jade": "^1.11.0",
+    "mongoose" : "~4.4",
+    "body-parser" : "~1.4.2",
+    "method-override" : "~2.0.2"  
+  },
+  
+  "devDependencies": {
+    "bower": "^1.8.0"
+  }
+}
